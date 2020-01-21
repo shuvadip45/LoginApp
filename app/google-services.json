@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926808366384",
+    "firebase_url": "https://myloginapp-2cdca.firebaseio.com",
+    "project_id": "myloginapp-2cdca",
+    "storage_bucket": "myloginapp-2cdca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926808366384:android:0d4314a34400118bee7cf5",
+        "android_client_info": {
+          "package_name": "com.shuvadip.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926808366384-5et1f93hss9o9m6c25h94ska2bb9d93t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shuvadip.loginapp",
+            "certificate_hash": "84581fdad0b5155e9970a0640c74b029caa29fe7"
+          }
+        },
+        {
+          "client_id": "926808366384-fbqctqrgchqabtred7bm5keqs8ihmq2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAudhlJebqWuNDJQ4CPgH1-U24eDItBzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926808366384-fbqctqrgchqabtred7bm5keqs8ihmq2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
